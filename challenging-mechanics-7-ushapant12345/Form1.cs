@@ -425,7 +425,7 @@ namespace challenging_mechanics_7_ushapant12345
 
         public string arrayTwo(char[] values)
         {
-            // inner code is not required but gets rid of syntax errors.
+            
             return values+" ";
         }
 
